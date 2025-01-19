@@ -9,4 +9,4 @@ In this demo students can use their nose to control a robot. The machine learnin
 
 - Use <a href="https://tproffen.github.io/prg-extension-boilerplate/">this version</a> of Scrach to open and run the code.
 
-You can also open the demo directly using this <a href="https://tproffen.github.io/prg-extension-boilerplate/create/?project=">link</a>.
+You can also open the demo directly using this <a href="https://tproffen.github.io/prg-extension-boilerplate/create/?project=https://github.com/tproffen/ORCSDemos/blob/main/RobotNoseControl/NoseRobot.sb3">link</a>.
